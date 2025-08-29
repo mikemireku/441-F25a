@@ -12,6 +12,7 @@ int main() {
     std::cin >> dimes;
 
     // second modification to the original file
+    // Continue editing the file
     std::cout << "Enter the number of nickels: ";
     std::cin >> nickels;
 
@@ -24,4 +25,5 @@ int main() {
     return 0;
 
 }
+
 
