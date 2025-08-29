@@ -7,6 +7,7 @@ int main() {
     std::cout << "Enter the number of quarters: ";
     std::cin >> quarters;
 
+    // new comment in the file
     std::cout << "Enter the number of dimes: ";
     std::cin >> dimes;
 
@@ -20,4 +21,5 @@ int main() {
     std::cout << "The coins are worth " << totalCents << " cents." << std::endl;
 
     return 0;
+
 }
